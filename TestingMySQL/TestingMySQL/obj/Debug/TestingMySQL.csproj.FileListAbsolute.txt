@@ -1,0 +1,14 @@
+C:\VStudio\TestingMySQL\TestingMySQL\bin\Debug\TestingMySQL.exe.config
+C:\VStudio\TestingMySQL\TestingMySQL\bin\Debug\TestingMySQL.exe
+C:\VStudio\TestingMySQL\TestingMySQL\bin\Debug\TestingMySQL.pdb
+C:\VStudio\TestingMySQL\TestingMySQL\bin\Debug\Google.Protobuf.dll
+C:\VStudio\TestingMySQL\TestingMySQL\bin\Debug\MySql.Data.dll
+C:\VStudio\TestingMySQL\TestingMySQL\bin\Debug\Google.Protobuf.xml
+C:\VStudio\TestingMySQL\TestingMySQL\bin\Debug\MySql.Data.xml
+C:\VStudio\TestingMySQL\TestingMySQL\obj\Debug\TestingMySQL.Properties.Resources.resources
+C:\VStudio\TestingMySQL\TestingMySQL\obj\Debug\TestingMySQL.csproj.GenerateResource.cache
+C:\VStudio\TestingMySQL\TestingMySQL\obj\Debug\TestingMySQL.csproj.CoreCompileInputs.cache
+C:\VStudio\TestingMySQL\TestingMySQL\obj\Debug\TestingMySQL.csproj.CopyComplete
+C:\VStudio\TestingMySQL\TestingMySQL\obj\Debug\TestingMySQL.exe
+C:\VStudio\TestingMySQL\TestingMySQL\obj\Debug\TestingMySQL.pdb
+C:\VStudio\TestingMySQL\TestingMySQL\obj\Debug\TestingMySQL.FormConectarMySQL.resources
